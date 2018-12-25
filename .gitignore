@@ -1,0 +1,7 @@
+# Build Temp
+*.dark
+
+
+# idea 配置文件
+*.iml
+.idea
